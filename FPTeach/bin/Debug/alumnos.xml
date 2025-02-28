@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlumno>
+  <Alumno>
+    <Usuario>Carlota2</Usuario>
+    <Correo>Carlota2@gmail,com</Correo>
+    <Dni>22113344Q</Dni>
+    <Contraseña>3344Q</Contraseña>
+    <Profesores>
+      <string>Profesor: Mario, Id:1</string>
+      <string>Profesor: Carlota Obregon, Id:2</string>
+      <string>Sin profesor</string>
+      <string>Profesor: Carlos Ramirez, Id:5</string>
+      <string>Profesor: Javi, Id:3</string>
+      <string>Profesor: Samanta, Id:7</string>
+      <string>Profesor: Hector Helio, Id:6</string>
+    </Profesores>
+    <Nota>
+      <int>9</int>
+      <int>7</int>
+      <int>8</int>
+      <int>8</int>
+      <int>6</int>
+      <int>7</int>
+      <int>7</int>
+    </Nota>
+  </Alumno>
+  <Alumno>
+    <Usuario>Raul3</Usuario>
+    <Correo>Raul3@gmail.com</Correo>
+    <Dni>57382917G</Dni>
+    <Contraseña>Raul3123</Contraseña>
+    <Profesores>
+      <string>Profesor: Mario, Id:1</string>
+      <string>Profesor: Carlota Obregon, Id:2</string>
+      <string>Profesor: Jaime, Id:4</string>
+      <string>Profesor: Carlos Ramirez, Id:5</string>
+      <string>Profesor: Javi, Id:3</string>
+      <string>Profesor: Samanta, Id:7</string>
+      <string>Profesor: Hector Helio, Id:6</string>
+    </Profesores>
+    <Nota>
+      <int>3</int>
+      <int>5</int>
+      <int>6</int>
+      <int>6</int>
+      <int>2</int>
+      <int>3</int>
+      <int>5</int>
+    </Nota>
+  </Alumno>
+  <Alumno>
+    <Usuario>Sonia4</Usuario>
+    <Correo>Sonia4@gmail.com</Correo>
+    <Dni>77362514W</Dni>
+    <Contraseña>Sonia4123</Contraseña>
+    <Profesores>
+      <string>Profesor: Mario, Id:1</string>
+      <string>Sin profesor</string>
+      <string>Profesor: Manolo, Id:14</string>
+      <string>Profesor: Carlos Ramirez, Id:5</string>
+      <string>Profesor: Javi, Id:3</string>
+      <string>Profesor: Oscar, Id:12</string>
+      <string>Profesor: Hector Helio, Id:6</string>
+    </Profesores>
+    <Nota>
+      <int>10</int>
+      <int>4</int>
+      <int>10</int>
+      <int>7</int>
+      <int>8</int>
+      <int>6</int>
+      <int>6</int>
+    </Nota>
+  </Alumno>
+</ArrayOfAlumno>

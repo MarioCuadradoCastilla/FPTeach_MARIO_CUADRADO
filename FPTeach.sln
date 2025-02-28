@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPTeach", "FPTeach\FPTeach.csproj", "{D171F46E-68E3-4618-A868-23DD65372899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D171F46E-68E3-4618-A868-23DD65372899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D171F46E-68E3-4618-A868-23DD65372899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D171F46E-68E3-4618-A868-23DD65372899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D171F46E-68E3-4618-A868-23DD65372899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39D5064-68A5-4251-A502-C84A55546136}
+	EndGlobalSection
+EndGlobal

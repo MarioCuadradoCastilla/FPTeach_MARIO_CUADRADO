@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Resources"
+  ],
+  "PreviewInSolutionExplorer": false
+}
